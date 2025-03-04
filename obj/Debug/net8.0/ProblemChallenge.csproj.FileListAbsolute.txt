@@ -1,0 +1,15 @@
+/Users/elouanlecorgne/Documents/Poznan/Cours/TSD/GIT/tsd2024/01-Introduction/obj/Debug/net8.0/ProblemChallenge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elouanlecorgne/Documents/Poznan/Cours/TSD/GIT/tsd2024/01-Introduction/obj/Debug/net8.0/ProblemChallenge.AssemblyInfoInputs.cache
+/Users/elouanlecorgne/Documents/Poznan/Cours/TSD/GIT/tsd2024/01-Introduction/obj/Debug/net8.0/ProblemChallenge.AssemblyInfo.cs
+/Users/elouanlecorgne/Documents/Poznan/Cours/TSD/GIT/tsd2024/01-Introduction/obj/Debug/net8.0/ProblemChallenge.csproj.CoreCompileInputs.cache
+/Users/elouanlecorgne/Documents/Poznan/Cours/TSD/GIT/tsd2024/01-Introduction/obj/Debug/net8.0/ProblemChallenge.sourcelink.json
+/Users/elouanlecorgne/Documents/Poznan/Cours/TSD/GIT/tsd2024/01-Introduction/bin/Debug/net8.0/ProblemChallenge
+/Users/elouanlecorgne/Documents/Poznan/Cours/TSD/GIT/tsd2024/01-Introduction/bin/Debug/net8.0/ProblemChallenge.deps.json
+/Users/elouanlecorgne/Documents/Poznan/Cours/TSD/GIT/tsd2024/01-Introduction/bin/Debug/net8.0/ProblemChallenge.runtimeconfig.json
+/Users/elouanlecorgne/Documents/Poznan/Cours/TSD/GIT/tsd2024/01-Introduction/bin/Debug/net8.0/ProblemChallenge.dll
+/Users/elouanlecorgne/Documents/Poznan/Cours/TSD/GIT/tsd2024/01-Introduction/bin/Debug/net8.0/ProblemChallenge.pdb
+/Users/elouanlecorgne/Documents/Poznan/Cours/TSD/GIT/tsd2024/01-Introduction/obj/Debug/net8.0/ProblemChallenge.dll
+/Users/elouanlecorgne/Documents/Poznan/Cours/TSD/GIT/tsd2024/01-Introduction/obj/Debug/net8.0/refint/ProblemChallenge.dll
+/Users/elouanlecorgne/Documents/Poznan/Cours/TSD/GIT/tsd2024/01-Introduction/obj/Debug/net8.0/ProblemChallenge.pdb
+/Users/elouanlecorgne/Documents/Poznan/Cours/TSD/GIT/tsd2024/01-Introduction/obj/Debug/net8.0/ProblemChallenge.genruntimeconfig.cache
+/Users/elouanlecorgne/Documents/Poznan/Cours/TSD/GIT/tsd2024/01-Introduction/obj/Debug/net8.0/ref/ProblemChallenge.dll
