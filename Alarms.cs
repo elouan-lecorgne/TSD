@@ -16,12 +16,12 @@ public class Alarms
 
         while (S > 0)
         {
-            S -= volume[index];
-            alarmsCount++;
+            S -= volume[i];
+            reveil++;
             i = (i + 1) % n; 
         }
 
-        return alarmsCount;
+        return reveil;
 
 	}
 
