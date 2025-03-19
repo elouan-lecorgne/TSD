@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "+fWY0fg0nXA=",
+  "success": true,
+  "projectFilePath": "/Users/elouanlecorgne/Documents/Poznan/Cours/TSD/GIT/tsd2024/01-Introduction/ProblemChallenge.csproj",
+  "expectedPackageFiles": [
+    "/Users/elouanlecorgne/.nuget/packages/microsoft.netcore.app.ref/8.0.13/microsoft.netcore.app.ref.8.0.13.nupkg.sha512",
+    "/Users/elouanlecorgne/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.13/microsoft.aspnetcore.app.ref.8.0.13.nupkg.sha512",
+    "/Users/elouanlecorgne/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.13/microsoft.netcore.app.host.osx-arm64.8.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
