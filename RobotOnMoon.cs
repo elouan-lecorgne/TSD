@@ -11,46 +11,7 @@ public class RobotOnMoon
 {
     public string isSafeCommand(string[] board, string S)
     {
-        int x = 0;
-        int y = 0;
-        int n = board.Length; // Number of rows
-        int m = board[0].Length; // Number of columns
-
-        // Find the starting position of the robot
-        for (int i = 0; i < n; i++) {
-            int posiS = board[i].IndexOf('S');
-            if (posiS != -1) {
-                x = i;
-                y = posiS;
-                break;
-            }
-        }
-
-        // Move the robot according to the command string S
-        foreach (char move in S) {
-            int X = x, Y = y;
-
-
-            switch (move) { //  New position based on movement direction
-                case 'U': X = x - 1; break; // Move up
-                case 'D': X = x + 1; break; // Move down
-                case 'L': Y = y - 1; break; // Move left
-                case 'R': Y = y + 1; break; // Move right
-            }
-
-            // Check if the new position is valid
-            if (X < 0 || X >= n || Y < 0 || Y >= m) {
-                return "Dead";  
-            }
-
-            // Check if the new position is not a wall
-            if (board[X][Y] != '#') {
-                x = X;
-                y = Y;  
-            }
-        }
-        return "Alive";  
-
+            return default(string);
 
     }
 
